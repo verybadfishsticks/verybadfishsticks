@@ -1,7 +1,6 @@
 - 👋 hi, i’m @verybadfishsticks
 - 👀 i’m interested in the void
 - 🌱 i’m currently learning computer progamming
-- 💞️ i’m looking to collaborate on a secret!!!
 - 📫 how to reach me: email me at either verybadfishsticks@gmail.com or 266468@mcpsmd.net
 - 😄 pronouns: he/him
 - ⚡ fun fact, cheese is pretty cool
