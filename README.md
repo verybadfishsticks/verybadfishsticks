@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @verybadfishsticks
-- 👀 I’m interested in the void
-- 🌱 I’m currently learning: life
-- 💞️ I’m looking to collaborate on: secret
-- 📫 How to reach me: email me at either verybadfishsticks@gmail.com or 266468@mcpsmd.net
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: cheese is pretty cool
+- 👋 hi, I’m @verybadfishsticks
+- 👀 i’m interested in the void
+- 🌱 i’m currently learning computer progamming
+- 💞️ i’m looking to collaborate on a secret!!!
+- 📫 how to reach me: email me at either verybadfishsticks@gmail.com or 266468@mcpsmd.net
+- 😄 pronouns: he/him
+- ⚡ fun fact, cheese is pretty cool
 
 <!---
 verybadfishsticks/verybadfishsticks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
