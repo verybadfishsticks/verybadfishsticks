@@ -1,4 +1,4 @@
-- 👋 hi, I’m @verybadfishsticks
+- 👋 hi, i’m @verybadfishsticks
 - 👀 i’m interested in the void
 - 🌱 i’m currently learning computer progamming
 - 💞️ i’m looking to collaborate on a secret!!!
